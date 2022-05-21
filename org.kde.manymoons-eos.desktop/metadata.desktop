@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=Many Moons EndeavourOS
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=EndeavourOS Many Moons
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Smokey
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Name=org.kde.manymoons-eos.desktop
+X-KDE-PluginInfo-Version=1.0
+X-Plasma-MainScript=defaults
+
