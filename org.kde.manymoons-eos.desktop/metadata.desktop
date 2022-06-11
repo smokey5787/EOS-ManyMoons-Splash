@@ -11,9 +11,9 @@ X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Smokey
 X-KDE-PluginInfo-Category=
-X-KDE-PluginInfo-Email=
-X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Email=michaelcurtis5787@gmail.com
+X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=org.kde.manymoons-eos.desktop
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=1.0.1
 X-Plasma-MainScript=defaults
 
